@@ -1,5 +1,7 @@
 def merge_sub_arrys(list1, list2):
-    '''Thsi function merges 2 sorted sub-arrays'''
+    '''Thsi function merges 2 sorted sub-arrays. 
+    Also refer programiz python code where nothing was in recursion loop
+    https://www.programiz.com/dsa/merge-sort'''
     # initialize pointer & merged-sorted-sub-arrays
     i, j = 0, 0
     merged = []
